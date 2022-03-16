@@ -3,7 +3,7 @@
 ## Project Description
 Learned lots of data preprocessing skills from this notebook: https://www.kaggle.com/lakhankumawat/data-preprocessing
 
-Predicted Netflix Subscription by implementing lots of data processing and data cleaning and using XGBoost Classifier to accuracy 70%.
+Predicted Netflix customer subscription by implementing lots of data processing and data cleaning and using XGBoost classifier to accuracy 70%.
 ## How to run the project?
 
 Run Netflix_Appetency_Prediction.ipynb by
