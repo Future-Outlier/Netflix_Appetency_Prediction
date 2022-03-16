@@ -2,6 +2,7 @@
 ![image](https://user-images.githubusercontent.com/76461262/158663243-5a9ceae5-ff22-4d9a-ab45-002522bfa4df.png)
 ## Project Description
 Learned lots of data preprocessing skills from this notebook: https://www.kaggle.com/lakhankumawat/data-preprocessing
+
 Predicted Netflix Subscription by implementing lots of data processing and data cleaning and using XGBoost Classifier to accuracy 70%.
 ## How to run the project?
 
