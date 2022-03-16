@@ -27,6 +27,7 @@ https://www.kaggle.com/c/netflix-appetency/data
 
 
 ### 3.Using XGBoost to predict Customer Subscription
+![image](https://user-images.githubusercontent.com/76461262/158668486-66e49db5-49ec-4926-88ac-63f8fa4c23fd.png)
 
 ## The Steps of the project
 ### 1.Find categorical variables and numerical variables
