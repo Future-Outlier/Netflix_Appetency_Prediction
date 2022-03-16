@@ -40,7 +40,7 @@ https://www.kaggle.com/c/netflix-appetency/data
 
 ### 7.Deleting columns with zero variance (which means only one class)
 
-### ### 8.Handle categorical variables
+### 8.Handle categorical variables
 
 ### 9.label encoding
 
